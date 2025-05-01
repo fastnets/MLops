@@ -1,0 +1,14 @@
+[2025-05-01T19:14:26.265+0500] {processor.py:186} INFO - Started process (PID=21801) to work on /home/ivan/airflow/dags/download.py
+[2025-05-01T19:14:26.265+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/download.py for tasks to queue
+[2025-05-01T19:14:26.266+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:14:26.265+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/download.py
+[2025-05-01T19:14:27.307+0500] {processor.py:925} INFO - DAG(s) 'train_possum' retrieved from /home/ivan/airflow/dags/download.py
+[2025-05-01T19:14:27.313+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:14:27.312+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-01T19:14:27.321+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:14:27.321+0500] {dag.py:4180} INFO - Setting next_dagrun for train_possum to 2025-05-01 14:10:00+00:00, run_after=2025-05-01 14:15:00+00:00
+[2025-05-01T19:14:27.334+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/download.py took 1.072 seconds
+[2025-05-01T19:15:01.142+0500] {processor.py:186} INFO - Started process (PID=21896) to work on /home/ivan/airflow/dags/download.py
+[2025-05-01T19:15:01.143+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/download.py for tasks to queue
+[2025-05-01T19:15:01.143+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:15:01.143+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/download.py
+[2025-05-01T19:15:02.187+0500] {processor.py:925} INFO - DAG(s) 'train_possum' retrieved from /home/ivan/airflow/dags/download.py
+[2025-05-01T19:15:02.193+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:15:02.193+0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-05-01T19:15:02.201+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:15:02.201+0500] {dag.py:4180} INFO - Setting next_dagrun for train_possum to 2025-05-01 14:10:00+00:00, run_after=2025-05-01 14:15:00+00:00
+[2025-05-01T19:15:02.214+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/download.py took 1.076 seconds

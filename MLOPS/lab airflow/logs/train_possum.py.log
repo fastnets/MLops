@@ -1,0 +1,65 @@
+[2025-05-01T19:05:52.950+0500] {processor.py:186} INFO - Started process (PID=20060) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:05:52.950+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:05:52.951+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:05:52.951+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:05:53.996+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:05:53.999+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.053 seconds
+[2025-05-01T19:06:57.679+0500] {processor.py:186} INFO - Started process (PID=20241) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:06:57.680+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:06:57.680+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:06:57.680+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:06:58.724+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:06:58.727+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.051 seconds
+[2025-05-01T19:07:32.846+0500] {processor.py:186} INFO - Started process (PID=20334) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:07:32.847+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:07:32.848+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:07:32.847+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:07:33.888+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:07:33.891+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.048 seconds
+[2025-05-01T19:08:21.130+0500] {processor.py:186} INFO - Started process (PID=20605) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:08:21.131+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:08:21.131+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:08:21.131+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:08:22.218+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:08:22.222+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.095 seconds
+[2025-05-01T19:09:08.247+0500] {processor.py:186} INFO - Started process (PID=20730) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:09:08.248+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:09:08.249+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:09:08.248+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:09:09.293+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:09:09.297+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.053 seconds
+[2025-05-01T19:10:29.808+0500] {processor.py:186} INFO - Started process (PID=21066) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:10:29.809+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:10:29.809+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:10:29.809+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:10:30.884+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:10:30.888+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.082 seconds
+[2025-05-01T19:11:20.212+0500] {processor.py:186} INFO - Started process (PID=21294) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:11:20.213+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:11:20.214+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:11:20.213+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:11:21.284+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:11:21.288+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.079 seconds
+[2025-05-01T19:11:52.514+0500] {processor.py:186} INFO - Started process (PID=21371) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:11:52.515+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:11:52.516+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:11:52.515+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:11:53.553+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:11:53.557+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.045 seconds
+[2025-05-01T19:12:25.846+0500] {processor.py:186} INFO - Started process (PID=21464) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:12:25.847+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:12:25.847+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:12:25.847+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:12:26.901+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:12:26.904+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.061 seconds
+[2025-05-01T19:12:58.315+0500] {processor.py:186} INFO - Started process (PID=21543) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:12:58.316+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:12:58.316+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:12:58.316+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:12:59.356+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:12:59.360+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.048 seconds
+[2025-05-01T19:13:56.638+0500] {processor.py:186} INFO - Started process (PID=21705) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:13:56.639+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:13:56.639+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:13:56.639+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:13:57.680+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:13:57.684+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.050 seconds
+[2025-05-01T19:14:59.425+0500] {processor.py:186} INFO - Started process (PID=21892) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:14:59.426+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:14:59.426+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:14:59.426+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:15:00.503+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:15:00.507+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.085 seconds
+[2025-05-01T19:15:53.147+0500] {processor.py:186} INFO - Started process (PID=22194) to work on /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:15:53.148+0500] {processor.py:914} INFO - Processing file /home/ivan/airflow/dags/train_possum.py for tasks to queue
+[2025-05-01T19:15:53.148+0500] {logging_mixin.py:190} INFO - [2025-05-01T19:15:53.148+0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:15:54.195+0500] {processor.py:927} WARNING - No viable dags retrieved from /home/ivan/airflow/dags/train_possum.py
+[2025-05-01T19:15:54.198+0500] {processor.py:208} INFO - Processing /home/ivan/airflow/dags/train_possum.py took 1.054 seconds
